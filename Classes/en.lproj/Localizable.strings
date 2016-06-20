@@ -1,0 +1,56 @@
+/*
+ Localizable.strings
+ PinkBrowser
+ 
+ Created by sail on 10/22/13.
+ Copyright (c) 2013 sail. All rights reserved.
+ */
+
+"NAME" = "Browser";
+"StartPage" = "Start page";
+"Shared by users" = "Shared by users";
+"Bookmarks" = "Bookmarks";
+"Settings" = "Settings";
+"Passcode Lock" = "Passcode Lock";
+"All data in this app will be erased after %d failed passcode attempts." = "All data in this app will be erased after %d failed passcode attempts.";
+"Cancel" = "Cancel";
+"Enable" = "Enable";
+"Erase all content in the app after %d failed passcode attempts." = "Erase all content in the app after %d failed passcode attempts.";
+
+"Turn Passcode Off" = "Turn Passcode Off";
+"Turn Passcode On" = "Turn Passcode On";
+"Change Passcode" = "Change Passcode";
+"Erase Data" = "Erase Data";
+"Set Passcode" = "Set Passcode";
+"Turn off Passcode" = "Turn off Passcode";
+"Enter Passcode" = "Enter Passcode";
+"1 Failed Passcode Attempt" = "1 Failed Passcode Attempt";
+"%i Failed Passcode Attempts" = "%i Failed Passcode Attempts";
+"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+"Enter a different passcode. You cannot re-use the same passcode." = "Enter a different passcode. You cannot re-use the same passcode.";
+
+"Enter your passcode" = "Enter your passcode";
+"Enter a passcode" = "Enter a passcode";
+"Re-enter your passcode" = "Re-enter your passcode";
+"Enter your old passcode" = "Enter your old passcode";
+"Enter your new passcode" = "Enter your new passcode";
+"Re-enter your new passcode" = "Re-enter your new passcode";
+"Bookmark" = "Bookmark";
+"Cancel" = "Cancel";
+"Confirm" = "Confirm";
+"You have entered an incorrect passcode too many times. All account data in this app has been deleted." = "You have entered an incorrect passcode too many times. All account data in this app has been deleted.";
+"bookmark_label" = "bookmark_label_en";
+"startpage_btn" = "startpage_btn_en";
+"share_btn" = "share_btn_en";
+"bookmark_btn" = "bookmark_btn_en";
+"passwrd_btn" = "passwrd_btn_en";
+"title_label" = "title_label_en";
+"share_label" = "share_label_en";
+"setting_label" = "setting_label_en";
+"password_label"="password_label_en";
+"explain" = "explain_en";
+"password" = "password_en";
+"rate" = "rate_en";
+"logo" = "logo_en";
+"browser_label" = "browser_label_en";
+"nav_en" = "nav_en";

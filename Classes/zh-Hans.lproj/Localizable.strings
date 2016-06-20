@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  colorful
+
+  Created by SongYang on 14-1-2.
+
+*/
+/*
+ Localizable.strings
+ PinkBrowser
+ 
+ Created by sail on 10/22/13.
+ Copyright (c) 2013 sail. All rights reserved.
+ */
+
+"NAME" = "桃色浏览器";
+"StartPage" = "网址导航";
+"Shared by users" = "桃友分享";
+"Bookmarks" = "书签";
+"Settings" = "设置";
+"Passcode Lock" = "设置密码";
+"All data in this app will be erased after %d failed passcode attempts." = "所有的应用程序数据会在%d次错误后清空.";
+"Cancel" = "取消";
+"Enable" = "启用";
+"Erase all content in the app after %d failed passcode attempts." = "在%d次密码错误后删除应用所有数据.";
+
+"Turn Passcode Off" = "关闭密码保护";
+"Turn Passcode On" = "开启密码保护";
+"Change Passcode" = "修改密码保护";
+"Erase Data" = "删除所有数据";
+"Set Passcode" = "设置密码";
+"Turn off Passcode" = "取消密码";
+"Enter Passcode" = "输入密码";
+"1 Failed Passcode Attempt" = "第1次密码错误";
+"%i Failed Passcode Attempts" = "第%i次密码错误";
+"Passcodes did not match. Try again." = "密码错误,请重试.";
+"Enter a different passcode. You cannot re-use the same passcode." = "请输入不同的密码.你不可以使用相同的密码.";
+
+"Enter your passcode" = "输入你的密码";
+"Enter a passcode" = "输入密码";
+"Re-enter your passcode" = "再输入一遍你的密码";
+"Enter your old passcode" = "输入你的旧密码";
+"Enter your new passcode" = "输入你的新密码";
+"Re-enter your new passcode" = "重新输入你的新密码";
+"Bookmark" = "添加书签";
+"Confirm" = "确认";
+"You have entered an incorrect passcode too many times. All account data in this app has been deleted." =
+"由于多次输入错误密码,所有的账户数据将会被删除.";
+"bookmark_label" = "bookmark_label";
+"startpage_btn" = "startpage_btn";
+"share_btn" = "share_btn";
+"bookmark_btn" = "bookmark_btn";
+"passwrd_btn" = "passwrd_btn";
+"title_label" = "title_label";
+"share_label" = "share_label";
+"setting_label" = "setting_label";
+"password_label"="password_label";
+"explain" = "explain";
+"password" = "password";
+"rate" = "rate";
+"logo" = "logo";
+"browser_label" = "browser_label";
+"nav_en" = "nav_cn";
